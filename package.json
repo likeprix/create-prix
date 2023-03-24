@@ -16,6 +16,6 @@
     "vite": "^4.2.1"
   },
   "dependencies": {
-    "prixjs": "^1.0.4"
+    "prixjs": "^1.0.7"
   }
 }
