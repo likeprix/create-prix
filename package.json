@@ -1,0 +1,25 @@
+{
+  "name": "create-prix",
+  "version": "1.0.5",
+  "description": "The starter command for Prix.",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/likeprix/create-prix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.3",
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "prixjs": "^1.0.3"
+  }
+}

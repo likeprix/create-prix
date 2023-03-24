@@ -1,0 +1,30 @@
+/*Not found page*/
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f1f1f1;
+}
+
+.container {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.not-found {
+	font-size: 150px;
+	color: #e74c3c;
+	margin-bottom: 0;
+}
+
+.paragraph-404 {
+	font-size: 24px;
+	margin-top: 0;
+}
+
+.a-404 {
+	color: #3498db;
+	text-decoration: none;
+}
+
+.a-404:hover {
+	text-decoration: underline;
+}
