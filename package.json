@@ -2,7 +2,7 @@
   "name": "create-prix",
   "version": "1.0.5",
   "description": "The starter command for Prix.",
-  "bin": "./bin/cli.js",
+  "main": "src/index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
