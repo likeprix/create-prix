@@ -1,9 +1,42 @@
-/*Not found page*/
+/*Starter*/
 body {
-	font-family: Arial, sans-serif;
-	background-color: #f1f1f1;
+	background: #111;
+	font-family: Arial;
 }
 
+.body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.blob {
+	position: absolute;
+	filter: blur(60px);
+	opacity: .5;
+	right: 0;
+	background-color: #6c236c;
+	width: 12em;
+	height: 12em;
+	margin: 0;
+	border-radius: .5em;
+}
+
+.title, .description {
+	color: #fff; 
+	font-family: monospace;
+}
+
+.code {
+	background: #ccc;
+	padding: 10px;
+	border-radius: 10px;
+	color: #000;
+	font-family: monospace, Arial;
+}
+
+/*404 page*/
 .container {
 	text-align: center;
 	margin-top: 100px;
