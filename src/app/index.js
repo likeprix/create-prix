@@ -19,6 +19,7 @@ export default function Home() {
         <p class="description">Start with your project!</p>
         <p class="code">Edit src/app/index.js</p>
         <p class="description">Prix is currently in beta. Any bugs/suggestions are welcome on our GitHub.</p>
+        <p class="description">Counter: ${count}</p>
       </div>
     `)
 }
