@@ -11,9 +11,14 @@ export default function Home() {
       console.log('changed');
     });
 
-    return `
-      <ul>
-        <h1>Counter: ${count}</h1>
-      </ul>
-      `
+    return (
+     `
+      <div class="body">
+        <div class="blob"></div>
+        <h1 class="title">PrixJS</h1>
+        <p class="description">Start with your project!</p>
+        <p class="code">Edit src/app/index.js</p>
+        <p class="description">Prix is currently in beta. Any bugs/suggestions are welcome on our GitHub.</p>
+      </div>
+    `)
 }
