@@ -36,6 +36,12 @@ body {
 	font-family: monospace, Arial;
 }
 
+.github {
+	text-decoration: none;
+	color: #ccc;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
 /*404 page*/
 .container {
 	text-align: center;
