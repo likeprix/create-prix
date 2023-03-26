@@ -1,6 +1,6 @@
 {
   "name": "prix-starter",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "The starter command for Prix.",
   "main": "src/index.js",
   "scripts": {
@@ -16,6 +16,6 @@
     "vite": "^4.2.1"
   },
   "dependencies": {
-    "prixjs": "^1.0.7"
+    "prixjs": "^1.0.8"
   }
 }
